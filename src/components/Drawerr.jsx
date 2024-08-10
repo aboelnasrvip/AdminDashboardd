@@ -94,7 +94,7 @@ const arr2 = [
   { text: "Profile Form", icon: <PersonOutlinedIcon />, path: "/form" },
   { text: "Calendar", icon: <CalendarTodayOutlinedIcon />, path: "/calendar" },
   {
-    text: "FAQ Page",
+    text: "FAQ ",
     icon: <HelpOutlineOutlinedIcon />,
     path: "/faq",
   },

@@ -18,6 +18,7 @@ import PieChart from './pages/piechart/PieChart';
 import LineChart from './pages/linechart/LineChart';
 import Geography from './pages/geography/Geography';
 import NotFound from './pages/notfound/NotFound';
+//==================================================
 
 const router = createBrowserRouter(
   createRoutesFromElements(
