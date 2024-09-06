@@ -5,9 +5,6 @@ A high-performance admin dashboard developed with React and Vite, featuring a mo
 ### Number of pages: 11 pages
 ![Admin Dashboard](./public/images/dashhhhhhh.png)
 
-## Live Demo
-
-[View Live Demo](admin-dashboardd-tau.vercel.app)
 
 ## Features
 
