@@ -1,8 +1,44 @@
-# React + Vite
+# Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance admin dashboard developed with React and Vite, featuring a modern and responsive interface. The dashboard provides efficient data management and visualization capabilities, making it ideal for managing complex data sets with ease.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Interface**: Designed with Material UI for a sleek, intuitive, and responsive user experience.
+- **Navigation**: Implemented React Router DOM for smooth and easy navigation across different sections.
+- **Form Validation**: Integrated React Hook Form for robust form validation and user input management.
+- **Calendar Management**: Used FullCalendar for effective scheduling and event management.
+- **Data Visualization**: Created interactive and visually appealing charts and graphs using Nivo.
+- **Performance**: Leveraged Vite for fast development and optimized build performance.
+
+## Technologies Used
+
+- **Frontend**: React.js, Vite
+- **UI Components**: Material UI
+- **Routing**: React Router DOM
+- **Form Validation**: React Hook Form
+- **Calendar**: FullCalendar
+- **Data Visualization**: Nivo for charts and graphs
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/aboelnasrvip/Admin_Dashboardd.git
+   cd Admin_Dashboardd
+
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+3. **Run the application:**
+   ```bash
+   npm run dev
+
+
+
+
+
+
